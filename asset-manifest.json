@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shop/static/css/main.c63f68f6.css",
-    "main.js": "/shop/static/js/main.63978c5a.js",
+    "main.js": "/shop/static/js/main.aebb6251.js",
     "static/js/787.23170c61.chunk.js": "/shop/static/js/787.23170c61.chunk.js",
     "static/media/Jua-Regular.ttf": "/shop/static/media/Jua-Regular.bb8909a47f60980f5988.ttf",
     "static/media/Nunito-Medium.ttf": "/shop/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
     "index.html": "/shop/index.html",
     "main.c63f68f6.css.map": "/shop/static/css/main.c63f68f6.css.map",
-    "main.63978c5a.js.map": "/shop/static/js/main.63978c5a.js.map",
+    "main.aebb6251.js.map": "/shop/static/js/main.aebb6251.js.map",
     "787.23170c61.chunk.js.map": "/shop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c63f68f6.css",
-    "static/js/main.63978c5a.js"
+    "static/js/main.aebb6251.js"
   ]
 }
